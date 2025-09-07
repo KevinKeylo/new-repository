@@ -1,2 +1,2 @@
 # new-repository
-new repository in GitHub (freeCodeCamp)
+my new repository in GitHub (freeCodeCamp)
